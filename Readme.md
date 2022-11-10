@@ -12,9 +12,9 @@ However further messages & communications were encrypted based upon the
 cipher above thus we cannot decipher the messages.
 
 ## Your mission
-Your mission, should you choose to accept it 
+Your mission, should you choose to accept it,
 is to create a "decryption" program based upon 
-the image above to decipher the messages
+the image above to decipher the messages.
 
 Your program should take an input of the encrypted message and 
 automatically display the decrypted the message.
