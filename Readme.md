@@ -5,6 +5,7 @@ You are a junior ASIO Agent working for the Australian Security Intelligence Org
 
 On the July the 5th 2020 an senior agent has managed to intercept a new 
 encryption scheme of a suspected criminal syndicate as shown in the image below.
+
 ![Encryption scheme](Intercepted.png)
 
 However further messages & communications were encrypted based upon the 
