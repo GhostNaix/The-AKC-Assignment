@@ -242,4 +242,4 @@ namespace AKC
 
 ```
 
-Based upon a Real case However it did not include the organisation ASIO. those that know, know
+Based upon a Real case However it did not involve the organisation ASIO. those that know, know
